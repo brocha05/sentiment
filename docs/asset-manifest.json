@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65f13a64.css",
+    "main.js": "/static/js/main.77db803c.js",
+    "static/media/ateneo.png": "/static/media/ateneo.046a8feb3909e4a1bd6b.png",
+    "static/media/example.png": "/static/media/example.d7c3029ae0b943996191.png",
+    "static/media/example-post.png": "/static/media/example-post.790daa68947fbf2d00eb.png",
+    "index.html": "/index.html",
+    "main.65f13a64.css.map": "/static/css/main.65f13a64.css.map",
+    "main.77db803c.js.map": "/static/js/main.77db803c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f13a64.css",
+    "static/js/main.77db803c.js"
+  ]
+}
